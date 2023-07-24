@@ -1,0 +1,20 @@
+*{
+    box-sizing: content-box;
+    /* background-color: rgb(21, 255, 0); */
+
+}
+.kuchbhi{
+background-color: red;
+width: 100px;
+height: 100px;
+
+  }
+  .model {
+background-color: blue;
+width: 100%;
+height: 100px;
+border: 10px solid black;
+box-sizing: border-box;
+    
+  }
+  
